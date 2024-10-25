@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kyle Ferell G. Del Rosario</h1>
-<h3 align="center">An upcoming 2nd year student of Polytechnic University of the Philippines under the course of Bachelor of Science in Information Technology.</h3>
+<h3 align="center">A 3rd year student of Polytechnic University of the Philippines under the course of Bachelor of Science in Information Technology.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kayleu&label=Profile%20views&color=0e75b6&style=flat" alt="kayleu" /> </p>
 
