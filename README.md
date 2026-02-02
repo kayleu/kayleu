@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kayleu&label=Profile%20views&color=0e75b6&style=flat" alt="kayleu" /> </p>
 
-- 🌱 I’m currently learning **HTML, CSS, Javascript**
+- 🌱 I’m currently learning **Mobile Development!**
 
 - 👨‍💻 All of my projects are available at [https://github.com/kayleu](https://github.com/kayleu)
 
